@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Historical Object</string>
+    <string name="title_home">Home</string>
+    <string name="title_kategori">Kategori</string>
+    <string name="title_login">Login</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_kuis">Kuis</string>
+    <string name="title_logout">Logout</string>
+    <string name="Logo_HO">Historical Object</string>
+</resources>
